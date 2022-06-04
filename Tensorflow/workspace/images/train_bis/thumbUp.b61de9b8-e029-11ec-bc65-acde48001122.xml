@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_bis</folder>
+	<filename>thumbUp.b61de9b8-e029-11ec-bc65-acde48001122.jpg</filename>
+	<path>/Users/lazarericour-dumas/Documents/Proj/Machine_Learning/ObjectRecognition/ProjGetIn/Tensorflow/workspace/images/train_bis/thumbUp.b61de9b8-e029-11ec-bc65-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbUp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>657</xmin>
+			<ymin>383</ymin>
+			<xmax>812</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

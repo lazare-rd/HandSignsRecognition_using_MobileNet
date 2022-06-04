@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_bis</folder>
+	<filename>thumbDown.6a0d893e-e029-11ec-a97a-acde48001122.jpg</filename>
+	<path>/Users/lazarericour-dumas/Documents/Proj/Machine_Learning/ObjectRecognition/ProjGetIn/Tensorflow/workspace/images/train_bis/thumbDown.6a0d893e-e029-11ec-a97a-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>304</ymin>
+			<xmax>861</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

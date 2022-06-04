@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsdown</folder>
+	<filename>thumbsdown.410f5358-d5db-11ec-88f7-3af9d3a7dd99.jpg</filename>
+	<path>/Users/lazarericour-dumas/Documents/Proj/Machine_Learning/ObjectRecognition/TFODCourse/collectedImages/thumbsdown/thumbsdown.410f5358-d5db-11ec-88f7-3af9d3a7dd99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>257</ymin>
+			<xmax>577</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

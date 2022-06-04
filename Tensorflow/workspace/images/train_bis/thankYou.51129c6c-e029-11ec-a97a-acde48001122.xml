@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_bis</folder>
+	<filename>thankYou.51129c6c-e029-11ec-a97a-acde48001122.jpg</filename>
+	<path>/Users/lazarericour-dumas/Documents/Proj/Machine_Learning/ObjectRecognition/ProjGetIn/Tensorflow/workspace/images/train_bis/thankYou.51129c6c-e029-11ec-a97a-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>269</ymin>
+			<xmax>899</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>
