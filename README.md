@@ -1,8 +1,8 @@
 # liveObjectRecognition
 
 This is a Python script that runs a detection model trained for 4 different signs (thumb-up, thumb-down, peace and thank you) on your webcam.
-The model used in this script is a pretrained model, on the COCO dataset, offered by tensorfolw's object detection API. It has then been trained 
-specificaly the 4 signs mentionned earlier. 
+The model used in this script is a pretrained model, on the COCO dataset, offered by tensorflow's object detection API. It has then been trained 
+specificaly for the 4 signs mentionned earlier. 
 
 This repo contains the files used to collect the data, train the model, and display the live recognition. All the files model related are in 
 Tensorflow/workspace.
